@@ -39,7 +39,8 @@ Beltic is a CLI for managing and signing verifiable credentials for AI agents.
 
 ## Links
 
-- [Documentation](https://docs.beltic.dev)
-- [GitHub](https://github.com/belticlabs/beltic-cli)
+- [CLI Repository](https://github.com/belticlabs/beltic-cli)
+- [SDK Repository](https://github.com/belticlabs/beltic-sdk)
+- [Specification](https://github.com/belticlabs/beltic-spec)
 - [crates.io](https://crates.io/crates/beltic)
 
